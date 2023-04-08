@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "349512190185",
+    "project_id": "facedetection-e337c",
+    "storage_bucket": "facedetection-e337c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349512190185:android:3f485f95b5e70295c88878",
+        "android_client_info": {
+          "package_name": "com.deepa.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349512190185-mhq22qnf524indh4ke202iusrsl1g5a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc9WWI2IFbJQ8zgvDC1_0wbJMfAxLBHiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349512190185-mhq22qnf524indh4ke202iusrsl1g5a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
