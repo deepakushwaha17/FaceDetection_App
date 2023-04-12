@@ -23,11 +23,12 @@ If face does not get detected the a toast message will pe printed that "NO FACE 
 
 ## Screenshot of App
 ### -> If face detected:
-<img src="https://user-images.githubusercontent.com/114289926/231517767-a93108d5-101c-4a5d-a4a6-03ee2f0ecf78.jpeg" height="667px" width="300px"/>    <img src="https://user-images.githubusercontent.com/114289926/231517794-0b41a38b-d4c3-4415-aa7e-9c640c6d95f9.jpeg" height="667px" width="300px"/>    <img src="https://user-images.githubusercontent.com/114289926/231517826-df601853-2949-4fcf-b6f5-faff57a9c0f0.jpeg" height="667px" width="300px"/>
+<img src="https://user-images.githubusercontent.com/114289926/231517767-a93108d5-101c-4a5d-a4a6-03ee2f0ecf78.jpeg" height="489px" width="220px"/>    <img src="https://user-images.githubusercontent.com/114289926/231517794-0b41a38b-d4c3-4415-aa7e-9c640c6d95f9.jpeg" height="489px" width="220px"/>    <img src="https://user-images.githubusercontent.com/114289926/231517826-df601853-2949-4fcf-b6f5-faff57a9c0f0.jpeg" height="489px" width="220px"/>
+
 <br>
 
 ### -> If face not detected:
-<img src="https://user-images.githubusercontent.com/114289926/231527208-c8e4d322-dd78-46ae-92a3-e7911222d477.jpeg" height="667px" width="300px"/>    <img src="https://user-images.githubusercontent.com/114289926/231527258-50f1cf2b-deb4-4152-864b-111b257a4b81.jpeg" height="667px" width="300px"/>    <img src="https://user-images.githubusercontent.com/114289926/231527269-b0349df8-1dcd-4941-9fcd-2c0afea90b05.jpeg" height="667px" width="300px"/>
+<img src="https://user-images.githubusercontent.com/114289926/231527208-c8e4d322-dd78-46ae-92a3-e7911222d477.jpeg" height="489px" width="220px"/>    <img src="https://user-images.githubusercontent.com/114289926/231527258-50f1cf2b-deb4-4152-864b-111b257a4b81.jpeg" height="489px" width="220px"/>    <img src="https://user-images.githubusercontent.com/114289926/231527269-b0349df8-1dcd-4941-9fcd-2c0afea90b05.jpeg" height="489px" width="220px"/>
 
 <br>
 <br>
