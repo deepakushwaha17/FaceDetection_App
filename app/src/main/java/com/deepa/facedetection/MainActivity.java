@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity {
                 }
 
                 if (firebaseVisionFaces.size() == 0){
-                    Toast.makeText(MainActivity.this, "NO FACES", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity.this, "NO FACE DETECTED", Toast.LENGTH_SHORT).show();
                 } else {
                     Bundle bundle = new Bundle();
                     bundle.putString(FaceDetection.RESULT_TEXT, resultText);
